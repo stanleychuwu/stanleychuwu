@@ -10,9 +10,9 @@ A fullstack engineer with experience in working with Javascript, Node, React, SQ
 - Large Language Models
 
 ### 🌱 I’m currently learning ... 🌱
-- [Advanced React]([url](https://github.com/stanleychuwu/Advanced-React/tree/master/sick-fits))
+- Advanced React
   - fullstack store page application with Javascript, React, and GraphQL
-
+  - link: https://github.com/stanleychuwu/Advanced-React/tree/master/sick-fits
 <!--
 **stanleychuwu/stanleychuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
